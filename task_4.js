@@ -9,4 +9,4 @@ function countNumbers(start_num, end_num) {
     }, 1000);
   }
   
-  countNumbers(1, 5);
+  countNumbers(5, 15);
